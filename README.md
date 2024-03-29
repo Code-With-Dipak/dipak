@@ -53,22 +53,22 @@
 ---
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 <div align="left">
-  <a href="https://instagram.com/vishwajeet_0104" target="_blank">
+  <a href="https://instagram.com/dipaksarvade76" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/vishwajeetlondhe" target="_blank">
+  <a href="https://www.linkedin.com/in/Dipak Sarvade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-   <a href="https://twitter.com/Vishwajeet_0104" target="_blank">
+   <a href="https://twitter.com/dipak sarvade" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=24292E&logoColor=Black&labelColor=&style=for-the-badge" height="40" alt="Twitter logo"  />
   </a>
-  <a href="https://linktr.ee/vishwajeetlondhe" target="_blank">
+  <a href="https://linktr.ee/Dipak Sarvade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
-  <a href="https://leetcode.com/Vishwajeet_Londhe" target="_blank">
+  <a href="https://leetcode.com/dipak sarvade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LeetCode logo"  />
   </a>
-  <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
+  <a href="https://www.hackerrank.com/dipak sarvade" target="_blank">
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=green&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
  
@@ -76,9 +76,9 @@
 
   # My GitHub Profile And Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
+![Profile Views](https://komarev.com/ghpvc/?username=dipak sarvade)
 
-![Streak](https://streak-stats.demolab.com?user=Vishwajeet-Londhe)
+![Streak](https://streak-stats.demolab.com?user=dipak sarvade)
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwajeet-Londhe&hide=contribs,issues&show_icons=true&hide_border=true" alt="Vishwajeet's github stats" /></a>
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwajeet-Londhe&layout=compact&hide_border=true" />
